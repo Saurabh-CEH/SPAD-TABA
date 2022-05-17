@@ -1,0 +1,144 @@
+
+~	java:S116”"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø€ì¦úÿÿÿÿRMINORZ
+CODE_SMELL
+}	java:S116•"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÔçÉıÿÿÿÿRMINORZ
+CODE_SMELL
+{	java:S116–"RRename this field "RegDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÈğéRMINORZ
+CODE_SMELL
+z	java:S116—"QRename this field "UserID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌĞÓ›RMINORZ
+CODE_SMELL
+{
+java:S3008"RRename this field "GetName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—š¸…RMINORZ
+CODE_SMELL
+~
+java:S3008"URename this field "GetRegDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—š¸…RMINORZ
+CODE_SMELL
+|
+java:S3008"SRename this field "GetEmail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—š¸…RMINORZ
+CODE_SMELL
+}
+java:S3008"TRename this field "GetUserID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—š¸…RMINORZ
+CODE_SMELL
+p
+java:S1659"GDeclare "GetRegDate" and all following declarations on a separate line.(—š¸…RMINORZ
+CODE_SMELL
+
+java:S1450˜"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶RMINORZ
+CODE_SMELL
+
+java:S1450™"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜRMINORZ
+CODE_SMELL
+
+java:S1450š"WRemove the "jButton7" field and declare it as a local variable in the relevant methods.(İöÏÒRMINORZ
+CODE_SMELL
+…
+java:S1450›"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿRMINORZ
+CODE_SMELL
+†
+java:S1450œ"WRemove the "jLabel16" field and declare it as a local variable in the relevant methods.(š¼ª¯üÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿRMINORZ
+CODE_SMELL
+€
+java:S1450"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®RMINORZ
+CODE_SMELL
+…
+java:S1450Ÿ"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450 "VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿRMINORZ
+CODE_SMELL
+T
+java:S1172Å"*Remove this unused method parameter "evt".(‚À‡äRMAJORZ
+CODE_SMELL
+`
+java:S1135Æ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1172Ê"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135Ë"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172Ï"*Remove this unused method parameter "evt".(Üæ¦‚RMAJORZ
+CODE_SMELL
+`
+java:S1135Ğ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+w	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜šˆùRMINORZ
+CODE_SMELL
+T
+java:S1172Õ"*Remove this unused method parameter "evt".(˜šˆùRMAJORZ
+CODE_SMELL
+`
+java:S1135Ö"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+i
+java:S1854‡":Remove this useless assignment to local variable "status".(±ÎÈ¸ûÿÿÿÿRMAJORZ
+CODE_SMELL
+Y
+java:S1197Ü"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿRMINORZ
+CODE_SMELL
+o
+java:S2147ë"ECombine this catch with the one at line 233, which has the same body.(¨¦Š½RMINORZ
+CODE_SMELL
+o
+java:S2147í"ECombine this catch with the one at line 233, which has the same body.(ã€ RMINORZ
+CODE_SMELL
+n
+java:S2147ï"ECombine this catch with the one at line 233, which has the same body.(ñÎ¯%RMINORZ
+CODE_SMELL
+Z
+java:S1481‡"+Remove this unused "status" local variable.(±ÎÈ¸ûÿÿÿÿRMINORZ
+CODE_SMELL
+b	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”RMAJORZ
+CODE_SMELL
+	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ßÅ„ıÿÿÿÿRMINORZ
+CODE_SMELL
+z	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ìã™RMINORZ
+CODE_SMELL
+	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¶÷˜úÿÿÿÿRMINORZ
+CODE_SMELL
+V
+java:S16049"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604@"(Make this anonymous inner class a lambda(ÕÜÜ«ûÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604Y"(Make this anonymous inner class a lambda(­‹å“ıÿÿÿÿRMAJORZ
+CODE_SMELL
+R
+java:S1604˜"(Make this anonymous inner class a lambda(ÿóÎ×RMAJORZ
+CODE_SMELL
+W
+java:S1604ö"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿRMAJORZ
+CODE_SMELL
+|
+java:S1104"SMake GetName a static final constant or non-public and provide accessors if needed.(—š¸…RMINORZ
+CODE_SMELL
+
+java:S1104"VMake GetRegDate a static final constant or non-public and provide accessors if needed.(—š¸…RMINORZ
+CODE_SMELL
+}
+java:S1104"TMake GetEmail a static final constant or non-public and provide accessors if needed.(—š¸…RMINORZ
+CODE_SMELL
+~
+java:S1104"UMake GetUserID a static final constant or non-public and provide accessors if needed.(—š¸…RMINORZ
+CODE_SMELL
+V
+java:S1444"-Make this "public static GetName" field final(—š¸…RMINORZ
+CODE_SMELL
+Y
+java:S1444"0Make this "public static GetRegDate" field final(—š¸…RMINORZ
+CODE_SMELL
+W
+java:S1444".Make this "public static GetEmail" field final(—š¸…RMINORZ
+CODE_SMELL
+X
+java:S1444"/Make this "public static GetUserID" field final(—š¸…RMINORZ
+CODE_SMELL
+y
+java:S2095‚"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚¹¹ãùÿÿÿÿRBLOCKERZBUG

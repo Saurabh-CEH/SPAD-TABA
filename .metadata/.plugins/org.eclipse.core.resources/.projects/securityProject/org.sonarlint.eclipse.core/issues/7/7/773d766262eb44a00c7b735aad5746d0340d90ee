@@ -1,0 +1,93 @@
+
+c
+java:S1118":Add a private constructor to hide the implicit public one.(¯±€ùRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+v	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öë†ëRMINORZ
+CODE_SMELL
+
+java:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(éÆ“šûÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106 "9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+{	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×£„§üÿÿÿÿRMINORZ
+CODE_SMELL
+
+java:S4087,"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(éÆ“šûÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106."9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+M
+java:S16595"$Declare "issued" on a separate line.(Ê’ÅÕRMINORZ
+CODE_SMELL
+f	java:S106K"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+v	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄò¥RMINORZ
+CODE_SMELL
+f	java:S106]"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+v	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓªˆRMINORZ
+CODE_SMELL
+f	java:S106m"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+{	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ²ğäüÿÿÿÿRMINORZ
+CODE_SMELL
+
+java:S4087y"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(éÆ“šûÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106{"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+|	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Â¯üÿÿÿÿRMINORZ
+CODE_SMELL
+U
+java:S1481"+Remove this unused "status" local variable.(³Éë“RMINORZ
+CODE_SMELL
+‘
+java:S4087‰"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(éÆ“šûÿÿÿÿRMINORZ
+CODE_SMELL
+T
+java:S2695…"/This "PreparedStatement" only has 1 parameters.(ß×¢RBLOCKERZBUG
+g	java:S106‹"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+\
+java:S1128"3Remove this unused import 'javax.swing.JTextField'.(İË—RMINORZ
+CODE_SMELL
+y	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öë†ëRMINORZ
+CODE_SMELL
+~	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×£„§üÿÿÿÿRMINORZ
+CODE_SMELL
+y	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄò¥RMINORZ
+CODE_SMELL
+y	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄò¥RMINORZ
+CODE_SMELL
+y	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄò¥RMINORZ
+CODE_SMELL
+y	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄò¥RMINORZ
+CODE_SMELL
+y	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓªˆRMINORZ
+CODE_SMELL
+y	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓªˆRMINORZ
+CODE_SMELL
+~	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ²ğäüÿÿÿÿRMINORZ
+CODE_SMELL
+	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Â¯üÿÿÿÿRMINORZ
+CODE_SMELL
+x
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é´‹’ıÿÿÿÿRBLOCKERZBUG
+r
+java:S2095u"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Íö¸7RBLOCKERZBUG
+x
+java:S2095U"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(´Š±úÿÿÿÿRBLOCKERZBUG
+x
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ç¸…ºıÿÿÿÿRBLOCKERZBUG
+s
+java:S2095g"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(äÄRBLOCKERZBUG
+x
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é´‹’ıÿÿÿÿRBLOCKERZBUG
+s
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŸÃ¤ÃRBLOCKERZBUG
+s
+java:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ö™À®RBLOCKERZBUG
+t
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ñÔÀ–RBLOCKERZBUG

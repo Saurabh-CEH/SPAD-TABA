@@ -1,0 +1,40 @@
+
+
+java:S1450‚"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶RMINORZ
+CODE_SMELL
+Š
+java:S1450ƒ"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿRMINORZ
+CODE_SMELL
+Š
+java:S1450„"[Remove the "jScrollPane3" field and declare it as a local variable in the relevant methods.(Ò‰êêùÿÿÿÿRMINORZ
+CODE_SMELL
+ˆ
+java:S1450…"YRemove the "jTextArea1" field and declare it as a local variable in the relevant methods.(–¸äÎûÿÿÿÿRMINORZ
+CODE_SMELL
+ƒ
+java:S1450†"YRemove the "jTextArea3" field and declare it as a local variable in the relevant methods.(¥¶ÙşRMINORZ
+CODE_SMELL
+S
+java:S1172Y"*Remove this unused method parameter "evt".(‚À‡äRMAJORZ
+CODE_SMELL
+_
+java:S1135Z"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+X
+java:S1197a"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿRMINORZ
+CODE_SMELL
+n
+java:S2147p"ECombine this catch with the one at line 110, which has the same body.(¨¦Š½RMINORZ
+CODE_SMELL
+n
+java:S2147r"ECombine this catch with the one at line 110, which has the same body.(ã€ RMINORZ
+CODE_SMELL
+m
+java:S2147t"ECombine this catch with the one at line 110, which has the same body.(ñÎ¯%RMINORZ
+CODE_SMELL
+V
+java:S1604-"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604z"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿRMAJORZ
+CODE_SMELL

@@ -1,0 +1,67 @@
+
+
+java:S1450«"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶RMINORZ
+CODE_SMELL
+
+java:S1450¬"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜRMINORZ
+CODE_SMELL
+†
+java:S1450­"WRemove the "jButton3" field and declare it as a local variable in the relevant methods.(ĞäğËıÿÿÿÿRMINORZ
+CODE_SMELL
+†
+java:S1450®"WRemove the "jButton4" field and declare it as a local variable in the relevant methods.(€„ˆÎÿÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450¯"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿRMINORZ
+CODE_SMELL
+S
+java:S1172p"*Remove this unused method parameter "evt".(‚À‡äRMAJORZ
+CODE_SMELL
+_
+java:S1135q"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+X
+java:S1172w"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿRMAJORZ
+CODE_SMELL
+_
+java:S1135x"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+R
+java:S1172}"*Remove this unused method parameter "evt".(Š–ÿGRMAJORZ
+CODE_SMELL
+_
+java:S1135~"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172‚"*Remove this unused method parameter "evt".(™ÃŠñRMAJORZ
+CODE_SMELL
+`
+java:S1135ƒ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1197Š"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿRMINORZ
+CODE_SMELL
+o
+java:S2147™"ECombine this catch with the one at line 151, which has the same body.(¨¦Š½RMINORZ
+CODE_SMELL
+o
+java:S2147›"ECombine this catch with the one at line 151, which has the same body.(ã€ RMINORZ
+CODE_SMELL
+n
+java:S2147"ECombine this catch with the one at line 151, which has the same body.(ñÎ¯%RMINORZ
+CODE_SMELL
+V
+java:S1604'"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿRMAJORZ
+CODE_SMELL
+Q
+java:S16043"(Make this anonymous inner class a lambda(ÿóÎ×RMAJORZ
+CODE_SMELL
+P
+java:S1604:"(Make this anonymous inner class a lambda(¥ŠîjRMAJORZ
+CODE_SMELL
+V
+java:S1604A"(Make this anonymous inner class a lambda(üåêøÿÿÿÿRMAJORZ
+CODE_SMELL
+W
+java:S1604£"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿRMAJORZ
+CODE_SMELL

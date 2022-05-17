@@ -1,0 +1,167 @@
+
+z	java:S116³"QRename this field "Author" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒùÈRMINORZ
+CODE_SMELL
+	java:S116´"SRename this field "BookName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„æ±ŒüÿÿÿÿRMINORZ
+CODE_SMELL
+~	java:S116µ"PRename this field "Genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ûçìúÿÿÿÿRMINORZ
+CODE_SMELL
+}	java:S116¶"TRename this field "Publisher" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óĞàÇRMINORZ
+CODE_SMELL
+w	java:S116·"NRename this field "Row" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ…ÈğRMINORZ
+CODE_SMELL
+y	java:S116¸"PRename this field "Shelf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šéş¹RMINORZ
+CODE_SMELL
+
+java:S1450¹"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶RMINORZ
+CODE_SMELL
+
+java:S1450º"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜRMINORZ
+CODE_SMELL
+…
+java:S1450»"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450¼"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450½"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿRMINORZ
+CODE_SMELL
+€
+java:S1450¾"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ãRMINORZ
+CODE_SMELL
+€
+java:S1450¿"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®RMINORZ
+CODE_SMELL
+…
+java:S1450À"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿRMINORZ
+CODE_SMELL
+€
+java:S1450Á"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜ŸRMINORZ
+CODE_SMELL
+|	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úí‰ıÿÿÿÿRMINORZ
+CODE_SMELL
+Y
+java:S1172Ó"*Remove this unused method parameter "evt".(úí‰ıÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135Ô"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+w	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ô‹ßRMINORZ
+CODE_SMELL
+T
+java:S1172×"*Remove this unused method parameter "evt".(­ô‹ßRMAJORZ
+CODE_SMELL
+`
+java:S1135Ø"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+|	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·‹ù˜øÿÿÿÿRMINORZ
+CODE_SMELL
+Y
+java:S1172Û"*Remove this unused method parameter "evt".(·‹ù˜øÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135Ü"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+w	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìÿ¥RMINORZ
+CODE_SMELL
+T
+java:S1172ß"*Remove this unused method parameter "evt".(Ìÿ¥RMAJORZ
+CODE_SMELL
+`
+java:S1135à"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+|	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çù¯ˆúÿÿÿÿRMINORZ
+CODE_SMELL
+Y
+java:S1172ã"*Remove this unused method parameter "evt".(Çù¯ˆúÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135ä"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1172ç"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135è"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172í"*Remove this unused method parameter "evt".(‚À‡äRMAJORZ
+CODE_SMELL
+`
+java:S1135î"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+W	java:S108ö")Either remove or fill this block of code.(í®ÊıÿÿÿÿRMAJORZ
+CODE_SMELL
+K
+java:S1116ú"Remove this empty statement.(îì©ŒıÿÿÿÿRMINORZ
+CODE_SMELL
+j	java:S125ú"<This block of commented-out lines of code should be removed.(îì©ŒıÿÿÿÿRMAJORZ
+CODE_SMELL
+w	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï˜Œ±RMINORZ
+CODE_SMELL
+T
+java:S1172‹"*Remove this unused method parameter "evt".(ï˜Œ±RMAJORZ
+CODE_SMELL
+`
+java:S1135Œ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1197’"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿRMINORZ
+CODE_SMELL
+o
+java:S2147¡"ECombine this catch with the one at line 287, which has the same body.(¨¦Š½RMINORZ
+CODE_SMELL
+o
+java:S2147£"ECombine this catch with the one at line 287, which has the same body.(ã€ RMINORZ
+CODE_SMELL
+n
+java:S2147¥"ECombine this catch with the one at line 287, which has the same body.(ñÎ¯%RMINORZ
+CODE_SMELL
+S
+java:S1128"+Remove this unused import 'java.awt.Frame'.(Â QRMINORZ
+CODE_SMELL
+]
+java:S1128	"/Remove this unused import 'javax.swing.JFrame'.(ßŒŸûùÿÿÿÿRMINORZ
+CODE_SMELL
+x
+java:S11925"GDefine a constant instead of duplicating this literal "Ubuntu" 8 times.(™”ÙşûÿÿÿÿRCRITICALZ
+CODE_SMELL
+z	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŒä´RMINORZ
+CODE_SMELL
+z	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àô¿òRMINORZ
+CODE_SMELL
+z	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬œ„¬RMINORZ
+CODE_SMELL
+z	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÛ÷RMINORZ
+CODE_SMELL
+	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼š®æüÿÿÿÿRMINORZ
+CODE_SMELL
+	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¥ıÿÿÿÿRMINORZ
+CODE_SMELL
+Q
+java:S1604G"(Make this anonymous inner class a lambda(ÚŠ—íRMAJORZ
+CODE_SMELL
+P
+java:S1604M"(Make this anonymous inner class a lambda(³RMAJORZ
+CODE_SMELL
+Q
+java:S1604S"(Make this anonymous inner class a lambda(º“ƒÒRMAJORZ
+CODE_SMELL
+V
+java:S1604Y"(Make this anonymous inner class a lambda(Â©£úÿÿÿÿRMAJORZ
+CODE_SMELL
+Q
+java:S1604_"(Make this anonymous inner class a lambda(‚Ç¯ÛRMAJORZ
+CODE_SMELL
+V
+java:S1604g"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿRMAJORZ
+CODE_SMELL
+Q
+java:S1604n"(Make this anonymous inner class a lambda(ÿóÎ×RMAJORZ
+CODE_SMELL
+Q
+java:S1604w"(Make this anonymous inner class a lambda(óè½RMAJORZ
+CODE_SMELL
+W
+java:S1604«"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿRMAJORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+
+c
+java:S1118":Add a private constructor to hide the implicit public one.(ãš…†RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿRMAJORZ
+CODE_SMELL
+{	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡›ÒçÿÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106,"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿRMAJORZ
+CODE_SMELL
+v	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çø¿òRMINORZ
+CODE_SMELL
+f	java:S106A"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿRMAJORZ
+CODE_SMELL
+~	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡›ÒçÿÿÿÿÿRMINORZ
+CODE_SMELL
+y	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çø¿òRMINORZ
+CODE_SMELL
+y	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çø¿òRMINORZ
+CODE_SMELL
+y	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çø¿òRMINORZ
+CODE_SMELL
+y	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çø¿òRMINORZ
+CODE_SMELL
+p
+java:S2095'"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰—ªµùÿÿÿÿRBLOCKERZBUG
+x
+java:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¬ÙÝßüÿÿÿÿRBLOCKERZBUG
+p
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰—ªµùÿÿÿÿRBLOCKERZBUG

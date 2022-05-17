@@ -1,0 +1,237 @@
+
+„
+java:S3008"VRename this field "ThisLogined" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü°©ÔøÿÿÿÿRMINORZ
+CODE_SMELL
+x
+java:S3008"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÎŠ·RMINORZ
+CODE_SMELL
+
+java:S3008"VRename this field "LibrarianID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÎŠ·RMINORZ
+CODE_SMELL
+y
+java:S3008"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÎŠ·RMINORZ
+CODE_SMELL
+q
+java:S1659"HDeclare "LibrarianID" and all following declarations on a separate line.(»ÎŠ·RMINORZ
+CODE_SMELL
+
+java:S1450–"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶RMINORZ
+CODE_SMELL
+
+java:S1450—"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜRMINORZ
+CODE_SMELL
+†
+java:S1450˜"WRemove the "jButton3" field and declare it as a local variable in the relevant methods.(ĞäğËıÿÿÿÿRMINORZ
+CODE_SMELL
+†
+java:S1450™"WRemove the "jButton4" field and declare it as a local variable in the relevant methods.(€„ˆÎÿÿÿÿÿRMINORZ
+CODE_SMELL
+†
+java:S1450š"WRemove the "jButton5" field and declare it as a local variable in the relevant methods.(â¦Î©ûÿÿÿÿRMINORZ
+CODE_SMELL
+
+java:S1450›"WRemove the "jButton6" field and declare it as a local variable in the relevant methods.(á®İşRMINORZ
+CODE_SMELL
+
+java:S1450œ"WRemove the "jButton7" field and declare it as a local variable in the relevant methods.(İöÏÒRMINORZ
+CODE_SMELL
+
+java:S1450"WRemove the "jButton8" field and declare it as a local variable in the relevant methods.(ç™ÔôRMINORZ
+CODE_SMELL
+†
+java:S1450"WRemove the "jButton9" field and declare it as a local variable in the relevant methods.(õ©©ÂûÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450Ÿ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450 "VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿRMINORZ
+CODE_SMELL
+…
+java:S1450¡"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿRMINORZ
+CODE_SMELL
+€
+java:S1450¢"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ãRMINORZ
+CODE_SMELL
+…
+java:S1450£"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿRMINORZ
+CODE_SMELL
+{	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã®³ÿÿÿÿÿRMINORZ
+CODE_SMELL
+b
+java:S2696:"6Make the enclosing method "static" or remove this set.(½ê©ÒRCRITICALZ
+CODE_SMELL
+c
+java:S1161z":Add the "@Override" annotation above this method signature(ö¦óşRMAJORZ
+CODE_SMELL
+T
+java:S1172’"*Remove this unused method parameter "evt".(‚À‡äRMAJORZ
+CODE_SMELL
+`
+java:S1135“"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1172˜"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135™"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+S
+java:S1172"*Remove this unused method parameter "evt".(Š–ÿGRMAJORZ
+CODE_SMELL
+`
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172¤"*Remove this unused method parameter "evt".(™ÃŠñRMAJORZ
+CODE_SMELL
+`
+java:S1135¥"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172ª"*Remove this unused method parameter "evt".(è¿é¦RMAJORZ
+CODE_SMELL
+`
+java:S1135«"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172°"*Remove this unused method parameter "evt".(Üæ¦‚RMAJORZ
+CODE_SMELL
+`
+java:S1135±"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172¶"*Remove this unused method parameter "evt".(¡àÍ…RMAJORZ
+CODE_SMELL
+`
+java:S1135·"2Complete the task associated to this TODO comment.(­©ÔŠÿÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172¼"*Remove this unused method parameter "evt".(Âî»üRMAJORZ
+CODE_SMELL
+`
+java:S1135½"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1172À"*Remove this unused method parameter "evt".(¸¿¨£ıÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135Á"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172Ä"*Remove this unused method parameter "evt".(Ùó”RMAJORZ
+CODE_SMELL
+`
+java:S1135Å"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+T
+java:S1172È"*Remove this unused method parameter "evt".(Ÿ„íøRMAJORZ
+CODE_SMELL
+`
+java:S1135É"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1172Ì"*Remove this unused method parameter "evt".(ËöÙøÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135Í"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1172Ñ"*Remove this unused method parameter "evt".(ø¨Ì¾ûÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1135Ò"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿRINFOZ
+CODE_SMELL
+i
+java:S1854„":Remove this useless assignment to local variable "status".(±ÎÈ¸ûÿÿÿÿRMAJORZ
+CODE_SMELL
+T
+java:S1197Ù"*Move the array designators [] to the type.(¿’õâRMINORZ
+CODE_SMELL
+o
+java:S2147æ"ECombine this catch with the one at line 356, which has the same body.(¨¦Š½RMINORZ
+CODE_SMELL
+o
+java:S2147è"ECombine this catch with the one at line 356, which has the same body.(ã€ RMINORZ
+CODE_SMELL
+n
+java:S2147ê"ECombine this catch with the one at line 356, which has the same body.(ñÎ¯%RMINORZ
+CODE_SMELL
+Z
+java:S1481„"+Remove this unused "status" local variable.(±ÎÈ¸ûÿÿÿÿRMINORZ
+CODE_SMELL
+g	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ş‡Ğ©ûÿÿÿÿRMAJORZ
+CODE_SMELL
+b	java:S106Œ"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”RMAJORZ
+CODE_SMELL
+	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ßÅ„ıÿÿÿÿRMINORZ
+CODE_SMELL
+z	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ìã™RMINORZ
+CODE_SMELL
+	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¶÷˜úÿÿÿÿRMINORZ
+CODE_SMELL
+Q
+java:S1604D"(Make this anonymous inner class a lambda(ÿóÎ×RMAJORZ
+CODE_SMELL
+P
+java:S1604K"(Make this anonymous inner class a lambda(¥ŠîjRMAJORZ
+CODE_SMELL
+V
+java:S1604R"(Make this anonymous inner class a lambda(üåêøÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604Y"(Make this anonymous inner class a lambda(Åûÿ¾øÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604`"(Make this anonymous inner class a lambda(ÕÜÜ«ûÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604g"(Make this anonymous inner class a lambda(ŒÁÃÒùÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604~"(Make this anonymous inner class a lambda(£À¿ÓüÿÿÿÿRMAJORZ
+CODE_SMELL
+Q
+java:S1604ˆ"(Make this anonymous inner class a lambda(»„ÛRMAJORZ
+CODE_SMELL
+W
+java:S1604‘"(Make this anonymous inner class a lambda(‡¤ã¯øÿÿÿÿRMAJORZ
+CODE_SMELL
+W
+java:S1604˜"(Make this anonymous inner class a lambda(‹ıÉ¼üÿÿÿÿRMAJORZ
+CODE_SMELL
+W
+java:S1604Ÿ"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿRMAJORZ
+CODE_SMELL
+Q
+java:S1604Ú"(Make this anonymous inner class a lambda(ÔÑ»RMAJORZ
+CODE_SMELL
+W
+java:S1604ñ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿRMAJORZ
+CODE_SMELL
+…
+java:S1104"WMake ThisLogined a static final constant or non-public and provide accessors if needed.(ü°©ÔøÿÿÿÿRMINORZ
+CODE_SMELL
+y
+java:S1104"PMake Name a static final constant or non-public and provide accessors if needed.(»ÎŠ·RMINORZ
+CODE_SMELL
+€
+java:S1104"WMake LibrarianID a static final constant or non-public and provide accessors if needed.(»ÎŠ·RMINORZ
+CODE_SMELL
+z
+java:S1104"QMake Email a static final constant or non-public and provide accessors if needed.(»ÎŠ·RMINORZ
+CODE_SMELL
+_
+java:S1444"1Make this "public static ThisLogined" field final(ü°©ÔøÿÿÿÿRMINORZ
+CODE_SMELL
+S
+java:S1444"*Make this "public static Name" field final(»ÎŠ·RMINORZ
+CODE_SMELL
+Z
+java:S1444"1Make this "public static LibrarianID" field final(»ÎŠ·RMINORZ
+CODE_SMELL
+T
+java:S1444"+Make this "public static Email" field final(»ÎŠ·RMINORZ
+CODE_SMELL
+y
+java:S2095ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(³ËØüÿÿÿÿRBLOCKERZBUG
